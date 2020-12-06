@@ -8,3 +8,6 @@ Download Git-lfs from this link https://git-lfs.github.com/
     git add .
     git commit -m "LF file is pushing"
     git push -u origin master
+
+# Ravi Arora
+# rarora7878@gmail.com
